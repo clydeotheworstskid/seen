@@ -2162,3 +2162,5 @@ do
 end
 
 warn('UI Library loaded')
+
+return library
